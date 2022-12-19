@@ -1,4 +1,4 @@
-,ID,class,0,Name
+,ID,True class,Predicted class,Name
 0,CHEMBL3639767,potent,potent,CHEMBL3639767
 1,CHEMBL3677924,potent,potent,CHEMBL3677924
 2,CHEMBL3677925,active,active,CHEMBL3677925
